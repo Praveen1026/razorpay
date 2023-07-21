@@ -1,2 +1,2 @@
 # RazorPay Clone
-[Try it here](https://suryansh282.github.io/RazorPay_Clone/)
+[Try it here].(https://praveen1026.github.io/razorpay/)
